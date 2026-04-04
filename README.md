@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Working on innovative web and software projects
+👯 Looking to collaborate on open-source initiatives
+🤝 Seeking help with advanced system design patterns
+🌱 Currently learning cloud architecture & AI integration
+💬 Ask me about C++, web development, and clean code practices
+⚡ Fun fact: I build projects that bridge the gap between performance and user experience
 
 
 ## 🌐 Socials:
