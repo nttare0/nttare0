@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 Working on innovative web and software projects
-👯 Looking to collaborate on open-source initiatives
-🤝 Seeking help with advanced system design patterns
-🌱 Currently learning cloud architecture & AI integration
-💬 Ask me about C++, web development, and clean code practices
-⚡ Fun fact: I build projects that bridge the gap between performance and user experience
+<br>👯 Looking to collaborate on open-source initiatives
+<br>🤝 Seeking help with advanced system design patterns
+<br>🌱 Currently learning cloud architecture & AI integration
+<br>💬 Ask me about C++, web development, and clean code practices
+<br>⚡ Fun fact: I build projects that bridge the gap between performance and user experience
 
 
 ## 🌐 Socials:
