@@ -20,13 +20,23 @@
 
 ## Stack
 
-C++, Java, JavaScript, TypeScript, Python, PHP, React, Next.js, Vue, Node.js, Express, Tailwind, MySQL, PostgreSQL, MongoDB, AWS, Azure, Docker, Git, Linux, AI/ML tooling.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,python,php,html,css,react,nextjs,vue,nodejs,express,tailwind,mysql,postgres,mongodb,sqlite,supabase,firebase,aws,azure,gcp,docker,git,github,figma,postman,linux&perline=10&theme=dark" alt="Tech Stack" />
+</p>
 
 ## Connect
 
-- [GitHub](https://github.com/nttare0)
-- [Instagram](https://instagram.com/ntare_shema_prince)
-- [Email](mailto:nttare0@gmail.com)
+<p align="center">
+  <a href="https://github.com/nttare0">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/ntare_shema_prince">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:nttare0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center" style="color:#cfcfcf; font-size:12px; letter-spacing:1px; margin-top:22px;">
   MADE WITH INTENT • ALWAYS BUILDING
