@@ -15,15 +15,6 @@ I build AI-powered web applications with **TypeScript, React and Next.js** — c
 - 🌱 Deepening my expertise in cloud & backend systems
 - 💼 Open to freelance, contract, and full-time roles
 
-### Selected projects
-
-| Project | Description |
-|---|---|
-| [Synapse](https://github.com/nttare0/playground) | Multi-LLM research & coding IDE — agents propose, critique, and synthesize solutions, then write code in an in-browser IDE |
-| [mark2-ai-system](https://github.com/nttare0/mark2-ai-system) | AI system built with Next.js & TypeScript |
-| [tool-kit](https://github.com/nttare0/tool-kit) | Developer tools & utilities — my largest TypeScript codebase |
-| [skill](https://github.com/nttare0/skill) | AI skill that makes LLM output read naturally human, based on Wikipedia's *Signs of AI writing* |
-| [prince-shema-portfolio](https://github.com/nttare0/prince-shema-portfolio) | Personal portfolio — React, Vite, TypeScript, Tailwind CSS |
 
 ### Stack
 
