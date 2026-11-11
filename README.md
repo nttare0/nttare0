@@ -1,9 +1,4 @@
 # Ntare Shema Prince
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B8E7A&center=true&vCenter=true&width=700&lines=Finding+my+path.+Learning+as+I+grow.;Curious+about+many+things.;Building+ideas+with+clarity+and+purpose." alt="Typing SVG" />
-</div>
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/104332354?v=4" width="160" alt="Ntare Shema Prince" />
 </div>
