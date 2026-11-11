@@ -1,8 +1,4 @@
 # Ntare Shema Prince
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/104332354?v=4" width="160" alt="Ntare Shema Prince" />
-</div>
-
 <p align="center">
   <strong>Finding my path, one thoughtful step at a time.</strong><br>
   <strong>Based in Rwanda</strong> · Open to work
@@ -23,11 +19,6 @@
 I’m a person still finding my path — not rushing to fit into one box, but learning, exploring, and building with intention. I’m into many things, and I’m learning to trust that curiosity as a strength.
 
 I like working across AI, product thinking, web experiences, and developer tools. I enjoy ideas that connect creativity with usefulness and build things that help people move forward.
-
-- 🔭 Building <a href="https://github.com/nttare0/playground">Synapse</a> — a multi-LLM research and coding workspace where agents collaborate on real problems
-- 🤖 Interested in AI systems, agent workflows, and thoughtful software design
-- 🌱 Learning more about backend systems, cloud architecture, and scalable product building
-- 💼 Open to freelance, contract, and full-time opportunities
 
 ---
 
