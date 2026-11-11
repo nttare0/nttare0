@@ -28,9 +28,6 @@ I like working across AI, product thinking, web experiences, and developer tools
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,vite,git&theme=dark" alt="Tech stack" />
 </div>
 
-### Core tools
-TypeScript · JavaScript · React · Next.js · Node.js · Python · Tailwind CSS · Vite · Git
-
 ### Mindset
 Calm, curious, strategic, and a little unconventional. I like building with clarity, exploring many directions, and staying open to what naturally grows from the process.
 
