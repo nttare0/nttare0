@@ -25,7 +25,7 @@ I like working across AI, product thinking, web experiences, and developer tools
 ## Focus
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,vite,git&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c++,ts,js,react,nextjs,nodejs,python,tailwind,vite,git&theme=dark" alt="Tech stack" />
 </div>
 
 ### Mindset
