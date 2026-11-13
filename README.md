@@ -16,7 +16,7 @@
 
 ## About
 
-I’m a person still finding my path — not rushing to fit into one box, but learning, exploring, and building with intention. I’m into many things, and I’m learning to trust that curiosity as a strength.
+I’m a person still finding my path — not rushing to fit into one box, but learning, exploring, and building with intention. I’m into many things, and I’m learning to trust that curiosity and the joy of figuring things out as I go.
 
 I like working across AI, product thinking, web experiences, and developer tools. I enjoy ideas that connect creativity with usefulness and build things that help people move forward.
 
@@ -25,7 +25,7 @@ I like working across AI, product thinking, web experiences, and developer tools
 ## Focus
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c++,ts,js,react,nextjs,nodejs,python,tailwind,vite,git&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c++,java,ts,js,react,nextjs,nodejs,python,tailwind,vite,git&theme=dark" alt="Tech stack" />
 </div>
 
 ### Mindset
